@@ -1,7 +1,7 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        07                                     
  * Programmname:    PI                                  
- * Autor:           Michael Bucek                                
+ * Autor:           karlof002                               
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Bestimme den Wert von PI näherungsweise!
